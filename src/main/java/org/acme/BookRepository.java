@@ -1,7 +1,6 @@
 package org.acme;
 
 import jakarta.data.repository.CrudRepository;
-import jakarta.data.repository.Query;
 import jakarta.data.repository.Repository;
 
 import java.util.List;
